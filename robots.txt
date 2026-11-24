@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://june65.github.io/Epsilon-Tilde/sitemap.xml
