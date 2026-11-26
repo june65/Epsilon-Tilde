@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://june65.github.io/Epsilon-Tilde/"><img src="https://img.shields.io/badge/Project-Page-1fbd9b" alt="Project page"></a>
+  <a href="https://arxiv.org/abs/2611.33816"><img src="https://img.shields.io/badge/arXiv-2611.33816-b31b1b" alt="arXiv"></a>
+  <a href="https://arxiv.org/pdf/2611.33816"><img src="https://img.shields.io/badge/Paper-PDF-555" alt="Paper"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue" alt="License"></a>
 </p>
 
