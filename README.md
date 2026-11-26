@@ -121,9 +121,10 @@ Apache-2.0. The files in `pi05/` are modified from [openpi](https://github.com/P
 ## Citation
 
 ```bibtex
-@misc{lee2026epsilontilde,
-  title  = {$\widetilde{\varepsilon}$: Does Initial Noise Induce Directional Bias in Vision-Language-Action Models?},
-  author = {Lee, Junmyeong and Shin, Dongmin and Jeon, Wooseok and Lee, JunGyu and Shin, Seunghyun and Jeon, Hae-Gon},
-  year   = {2026}
+@article{lee2026epsilontilde,
+  title   = {$\widetilde{\varepsilon}$: Does Initial Noise Induce Directional Bias in Vision-Language-Action Models?},
+  author  = {Lee, Junmyeong and Shin, Dongmin and Jeon, Wooseok and Lee, JunGyu and Shin, Seunghyun and Jeon, Hae-Gon},
+  journal = {arXiv preprint arXiv:2611.33816},
+  year    = {2026}
 }
 ```
